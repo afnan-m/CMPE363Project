@@ -2,6 +2,8 @@
 This is a simple webapp embedded with chatbot project that aims to demonstrate how cloud services are useful in real-life problems
 This project is based on Azure cloud services. 
 
+For simplicity and demonstration purposes we created our chatbot base on our university's academic calendar, some information on our engineering faculty, contact details, and locations on campuses.
+
 1) resourceAutomation file is used to create the necessary resources:
 - Resource group, 
 - Webapp and its server,
