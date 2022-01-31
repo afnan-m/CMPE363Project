@@ -3,8 +3,8 @@ This is a simple webapp embedded with chatbot project that aims to demonstrate h
 This project is based on Azure cloud services. 
 
 1) resourceAutomation file is used to create the necessary resources:
--Resource group, 
--Webapp and its server,
+- Resource group, 
+- Webapp and its server,
 - SQL Server, firewall rules, and database 
 - Connection for webapp and databse
 
