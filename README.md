@@ -20,4 +20,11 @@ For simplicity and demonstration purposes we created our chatbot base on our uni
 
 6) websiteSourceCode file includes the html source code to create the website and it was created using Visual Studio then published to the Azure webapp.
 
-Additionally, a load balancer and virtual machines along with the required Virtual Network,  Public IP, NAT Gateway, Network Security Group, and other necessary resources were created using Azure portal interface.
+Additionally, a load balancer and virtual machines along with the required: 
+- Virtual Network 
+- Public IP
+- NAT Gateway 
+- Network Security Group 
+
+
+And other necessary resources were created using Azure portal interface.
