@@ -1,0 +1,7 @@
+Website:
+
+https://finalproject-webapp.azurewebsites.net
+
+Chatbot:
+
+https://webchat.botframework.com/embed/finalproject-qabot1-bot?s=suhgLc-keTM.83Sx7GmlWW5IlWHf6ok1h6LU4nQU3nH8z1eRC87Qz2c
